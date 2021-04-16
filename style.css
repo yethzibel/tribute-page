@@ -1,0 +1,64 @@
+/* EStos son los estilos principales de la página */
+body {
+	color: #292929;
+	background-color: #EBEBEB;
+	font-family: Roboto;
+	text-align: center;
+	font-size: 1rem;
+	padding-left: 5%;
+	padding-right: 8%;
+}
+
+main {
+	border-radius: 30px;
+	padding: 10px;
+	background-color: #D6D6D6; 
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+#image {
+	width: 80%;
+	height: 80%;
+}
+
+h3 {
+	font-size: 1rem;
+	margin: 1rem;
+}
+
+li {
+	text-align: left;
+	font-size: 0.9rem;
+	margin: 0.9rem;
+	margin-left: 3.5rem;
+	margin-right: 3.5rem;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#wiki {
+	text-align: center;
+	font-size: 1rem;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 8%;
+	margin-bottom: 8%;
+
+}
+
+#footer {
+	font-size: 0.8rem;
+}
+
+a {
+	text-decoration: none;
+	color: #707070;
+}
